@@ -12,3 +12,5 @@ to make a platformer game with some restrictions.
 we were instructed to use a certain player and certain ideas were encouraged.
 we had full control over creativity making whatever we wanted as long as we showed competency in working with GODOT
 
+![image](https://github.com/user-attachments/assets/5dd4a751-ebd4-45b1-a72d-ba91bfd65ccd)
+
